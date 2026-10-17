@@ -1,0 +1,23 @@
+# Credenciales
+.env
+.env.*
+!.env.example
+*credentials*.json
+*secret*.json
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+# Salidas y modelos
+exports/
+reports/
+*.rvt
+*.rfa
+*.rte
+*.rft
+*.log
+# Entorno
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
