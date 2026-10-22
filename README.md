@@ -32,8 +32,3 @@ Exportar inspecciona instancias del documento activo de 16 categorías construct
 
 Gemini recibe los hallazgos, incluidos IDs, categorías, reglas y mensajes. Evalúa la autorización para enviar datos del proyecto antes de activar la API. Los JSON y reportes pueden contener información del modelo y se excluyen del control de versiones.
 
-## Procedencia
-
-Código: copia de la extensión del escritorio, sin cambios funcionales. Contexto: `PrimeAI_BIMCheckAI_EntregaParcial.docx`, entrega parcial de BECA AI TALENT, segunda generación, AECODE. El documento fuente no se incluye en el repositorio. Las afirmaciones de validación del documento se distinguen de las verificaciones de esta revisión.
-
-No se ha definido una licencia de distribución. Antes de compartir públicamente, el propietario debe establecer las condiciones de uso.
